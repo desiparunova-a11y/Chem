@@ -26,7 +26,7 @@ int main()
         i++;
     }
     
-    printf("The sum is: %d", sum);//test 1 2 3
+    printf("The sum is: %d", sum);//test 3 5 4
     
     return 0;
 }
